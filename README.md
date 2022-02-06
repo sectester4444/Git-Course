@@ -1,6 +1,7 @@
 # Commands
 
 git --version
+
 git config --list
 git config --global user.name "username"
 git config --global user.email "email"
